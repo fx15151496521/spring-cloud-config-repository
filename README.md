@@ -1,0 +1,1 @@
+A repository for information about configuration files.
