@@ -1,2 +1,2 @@
 hello:
-  cloud: mircoservice-server-config-prod
+  cloud: mircoservice-client-config-prod
