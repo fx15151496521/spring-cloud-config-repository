@@ -1,0 +1,3 @@
+spring:
+  cloud:
+    test: config-client-pre
